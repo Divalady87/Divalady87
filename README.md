@@ -16,7 +16,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/soulfulcrafts"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="soulfulcrafts" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divalady87&show_icons=true&locale=en" alt="divalady87" /></p>
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Divalady87/30-nites-of-code)  
+  ![@Divalady87 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Divalady87)
 
 
 <!---
